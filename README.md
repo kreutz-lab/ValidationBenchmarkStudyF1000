@@ -1,4 +1,4 @@
-# BenchmarkStudy_MicrobiomeSyntheticData
+# Validation Benchmark Study of DA methods using Synthetic Microbiome Data
 Leveraging Synthetic Data to Validate a Benchmark Study for Differential Abundance Tests for 16S Microbiome Sequencing Data
 
 
