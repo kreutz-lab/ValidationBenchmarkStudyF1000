@@ -1,6 +1,5 @@
 # Leveraging Synthetic Data to Validate a Benchmark Study for Differential Abundance Tests for 16S Microbiome Sequencing Data
 
-
 This repository is used for conducting the Benchmark Study according to the following [study protocol](https://f1000research.com/articles/13-1180)
 
 ## How to run the code
